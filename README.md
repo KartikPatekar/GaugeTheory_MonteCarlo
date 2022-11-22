@@ -9,5 +9,7 @@ The codes in this repository were used to simulate the dynamics of Gauge fields 
 
 **Code description**
 HiggsCompWiseUpdate.cpp: Updates one component of one field at a time.
+
 HiggsFieldWiseUpdate.cpp: Updates entire field in one go.
+
 HiggsParallel.cpp: Parallelize the computations for faster simulations.
